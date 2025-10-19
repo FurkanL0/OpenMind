@@ -33,3 +33,16 @@ sudo apt install htop ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev lib
 ```bash
 sudo apt install portaudio19-dev python3-dev ffmpeg -y
 ```
+
+## UV : 
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+```bash
+source ~/.bashrc
+```
+
+- Version ile Kontrol ; 
+```bash
+uv --version
+```
