@@ -4,8 +4,8 @@
 
 | X        | Minimum              |
 |------------------|----------------------------|
-| **CPU**          | 12++ |
-| **RAM**          | 32++ GB                    |
+| **CPU**          | Belirsiz++ |
+| **RAM**          | Belirsiz++ GB                    |
 | **Disk**      | 50 GB+ NVME GB SDD                   |
 | **Internet Hızı**      | 1 Gbps+  |
 | **Ubuntu**      | Ubuntu 24.04++  |
