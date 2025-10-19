@@ -31,5 +31,5 @@ sudo apt install htop ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev lib
 ## Ek Paketler ; 
 
 ```bash
-sudo apt-get install portaudio19-dev python-dev ffmpeg
+sudo apt install portaudio19-dev python3-dev ffmpeg -y
 ```
