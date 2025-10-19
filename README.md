@@ -56,3 +56,8 @@ cd OM1
 git submodule update --init
 uv venv
 ```
+
+## Venv Akitfleştirelim
+```bash
+source .venv/bin/activate
+```
