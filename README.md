@@ -49,3 +49,10 @@ uv --version
 
 <img width="657" height="314" alt="image" src="https://github.com/user-attachments/assets/404a55b9-b380-4ded-adc9-72f8d7551d87" />
 
+## OM1 İndirelim ; 
+```bash
+git clone https://github.com/openmind/OM1.git
+cd OM1
+git submodule update --init
+uv venv
+```
