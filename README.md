@@ -61,3 +61,12 @@ uv venv
 ```bash
 source .venv/bin/activate
 ```
+
+## OpenMind Api Anahtar
+
+- Link : https://portal.openmind.org/
+
+<img width="1825" height="503" alt="image" src="https://github.com/user-attachments/assets/68b53528-71d5-47ff-b98e-8ef1099e2b89" />
+
+- Purchase Credits'den USDC ile bakiye yüklüyorsunuz. 3 USDC Attım ben - ödeme kısmında Crypto ile ödeme var sadece USDC Kabul ediyor bende base ağında usdc olarak ödedim.
+- Alttaki Create API Key'e basın key vericek onu kaydedin tek seferlik gözüküyor.
