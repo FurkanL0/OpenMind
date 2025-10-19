@@ -102,3 +102,9 @@ screen -S OM1
 ```bash
 source .venv/bin/activate
 ```
+
+- Çalıştıralım : 
+```bash
+uv run src/run.py spot
+```
+
