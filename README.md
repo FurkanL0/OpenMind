@@ -78,5 +78,7 @@ cp env.example .env
 nano .env
 ```
 
-```bash
-```
+<img width="1283" height="744" alt="image" src="https://github.com/user-attachments/assets/12d37aa7-6a58-4c2e-b64d-95952b4f4df3" />
+
+- OM_API_KEY=senin_api_keyin_buraya
+- Sonrasında CTRL X CTRL Y Enter.  Kaydeilecek.
