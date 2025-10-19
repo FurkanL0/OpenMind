@@ -87,3 +87,15 @@ nano .env
 ```bash
 uv sync
 ```
+
+## Screen Açalım ; 
+
+```bash
+screen -S OM1
+```
+
+- Yeniden Venv Aktifleştirelim ; 
+
+```bash
+source .venv/bin/activate
+```
