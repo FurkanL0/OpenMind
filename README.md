@@ -70,3 +70,13 @@ source .venv/bin/activate
 
 - Purchase Credits'den USDC ile bakiye yüklüyorsunuz. 3 USDC Attım ben - ödeme kısmında Crypto ile ödeme var sadece USDC Kabul ediyor bende base ağında usdc olarak ödedim.
 - Alttaki Create API Key'e basın key vericek onu kaydedin tek seferlik gözüküyor.
+```bash
+cp env.example .env
+```
+
+```bash
+nano .env
+```
+
+```bash
+```
