@@ -108,3 +108,4 @@ source .venv/bin/activate
 uv run src/run.py spot
 ```
 
+<img width="760" height="121" alt="image" src="https://github.com/user-attachments/assets/744b1454-8635-406b-b40b-2bfc31fd510d" />
