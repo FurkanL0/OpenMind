@@ -46,3 +46,6 @@ source ~/.bashrc
 ```bash
 uv --version
 ```
+
+<img width="657" height="314" alt="image" src="https://github.com/user-attachments/assets/404a55b9-b380-4ded-adc9-72f8d7551d87" />
+
