@@ -82,3 +82,8 @@ nano .env
 
 - OM_API_KEY=senin_api_keyin_buraya
 - Sonrasında CTRL X CTRL Y Enter.  Kaydeilecek.
+
+## Bağımlılıkları Yüklüyelim 
+```bash
+uv sync
+```
