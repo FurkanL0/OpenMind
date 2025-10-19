@@ -94,6 +94,9 @@ uv sync
 screen -S OM1
 ```
 
+<img width="507" height="481" alt="image" src="https://github.com/user-attachments/assets/9f0e4f13-3d36-4c5f-936a-a02b695a4f2a" />
+
+
 - Yeniden Venv Aktifleştirelim ; 
 
 ```bash
